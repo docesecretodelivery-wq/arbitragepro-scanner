@@ -1,1 +1,2 @@
 # arbitragepro-scanner
+Deploy trigger
