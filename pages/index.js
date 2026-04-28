@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <div style={{fontFamily:"Arial",padding:"40px"}}>
+    <main style={{ padding: 40, fontFamily: "Arial" }}>
       <h1>ArbitragePro Scanner</h1>
-      <p>Scanner ativo com sucesso.</p>
-    </div>
+      <p>Aplicação online com sucesso 🚀</p>
+    </main>
   );
 }
